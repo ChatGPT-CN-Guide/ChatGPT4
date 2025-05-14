@@ -50,7 +50,7 @@
 2. **GPTCat**  
    推荐理由：稳定高效，支持 GPT-4 和最新 GPT-o1，支持 Canvas 模型。  
    使用亮点：实时语音、文档生成功能齐全。  
-   地址：[chat2.gptcat.cc](https://chat2.gptcat.cc)
+   地址：[chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)
 
 3. **熊猫 GPT**  
    推荐理由：访问速度快，API 调用便捷，适合开发者使用。  
@@ -121,4 +121,4 @@
                                                                            
                                              
    
-                                                                                                                                                                           
+                                                                                                                                                                             
