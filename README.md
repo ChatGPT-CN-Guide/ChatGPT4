@@ -1,6 +1,6 @@
 # 【ChatGPT 中文版】国内访问完全指南（支持 GPT-4，无需翻墙）【2025 持续更新】
 
-> **更新时间： 2025/05/13**   
+> **更新时间： 2025/05/14**   
 
 全面体验 **ChatGPT 中文版**，无需翻墙，支持 GPT-4 和多功能应用！本指南为您提供 **一站式 ChatGPT 中文版使用指南**，涵盖 **国内镜像站点推荐**、**快速使用教程** 和 **常见问题解答**，帮助您轻松开启智能对话，满足翻译、写作、办公等多种场景需求。
 
@@ -45,12 +45,12 @@
 1. **SnakeGPT**  
    推荐理由：运营近一年半，支持 GPT-4、GPT4o、MidJourney 绘图功能。  
    使用亮点：免费试用，适合高级翻译与创意生成。  
-   地址：[snakegpt.chat](https://snakegpt.chat)
+   地址：[snakegpt.com.cn](https://snakegpt.com.cn)
 
 2. **GPTCat**  
    推荐理由：稳定高效，支持 GPT-4 和最新 GPT-o1，支持 Canvas 模型。  
    使用亮点：实时语音、文档生成功能齐全。  
-   地址：[gptcat.cc](https://gptcat.cc)
+   地址：[chat2.gptcat.cc](https://chat2.gptcat.cc)
 
 3. **熊猫 GPT**  
    推荐理由：访问速度快，API 调用便捷，适合开发者使用。  
@@ -70,7 +70,7 @@
 
 ### **方法一：通过镜像站点访问**
 1. **选择镜像站点**  
-   浏览上述推荐镜像站（如 [SnakeGPT](https://snakegpt.chat)）。
+   浏览上述推荐镜像站（如 [SnakeGPT](https://snakegpt.com.cn)）。
    
 2. **注册或直接使用**  
    - 国内邮箱注册：输入邮箱和密码，完成账号创建。  
